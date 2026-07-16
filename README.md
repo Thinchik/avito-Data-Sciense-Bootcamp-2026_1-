@@ -21,4 +21,4 @@
 Установи зависимости:
    ```bash
    pip install pandas catboost scikit-learn
-   python solution.py
+ 
