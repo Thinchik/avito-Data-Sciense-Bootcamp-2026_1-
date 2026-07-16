@@ -18,7 +18,8 @@
 
 ## Как запустить
 
-Установи зависимости:
-   ```bash
-   pip install pandas catboost scikit-learn
+1. Скачать данные по ссылке из задания
+2. Положить их в папку `data/`
+3. Установить зависимости: `pip install pandas catboost scikit-learn`
+4. Запустить `solution.ipynb`
  
